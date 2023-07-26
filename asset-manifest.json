@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/formikreact/static/css/main.e6c13ad2.css",
+    "main.js": "/formikreact/static/js/main.72b2388b.js",
+    "static/js/787.7ef3ee60.chunk.js": "/formikreact/static/js/787.7ef3ee60.chunk.js",
+    "static/media/signup-image.jpg": "/formikreact/static/media/signup-image.bd994738c4eb8deb2801.jpg",
+    "index.html": "/formikreact/index.html",
+    "main.e6c13ad2.css.map": "/formikreact/static/css/main.e6c13ad2.css.map",
+    "main.72b2388b.js.map": "/formikreact/static/js/main.72b2388b.js.map",
+    "787.7ef3ee60.chunk.js.map": "/formikreact/static/js/787.7ef3ee60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.72b2388b.js"
+  ]
+}
